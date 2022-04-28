@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    
+}
+.upfooter{
+    width: 100%;
+    height: 100px;
+    background-color: #F4F5F8;;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 20px;
+    
+}
+.preup{
+    width: 80%;
+    height: 50px;
+    margin:0 auto;
+    
+}
+.preup>pre{
+    font-family: 'Quicksand', sans-serif;
+}
+.downfooter{
+    width: 100%;
+    height: 149px;
+   
+    padding-top: 5px;
+    display: flex;
+
+}
+.text{
+    width: 315px;
+    height:40px;
+    display: inline-block;
+    
+    margin: auto 0;
+    margin-left: 30px;
+    
+    
+}
+
+.text>p{
+    text-align: center;  
+}
+.image{
+    width:320px ;
+    height:70px;
+    display: inline-block;
+    margin-left: 150px;
+    align-items: center;
+    
+    background: url("../Image/logo-footer.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: auto 250px;
+}
+img{
+    background-size: contain;
+}
+
+.sociallogo{
+   
+    display: flex;
+    height: 50px;
+    width: 150px;
+    margin: auto 0;
+   align-items: center;
+    
+}
+
+.sociallogo i{
+    font-size: 20px;
+    color: black;
+    margin:0px 5px;
+}
+.sociallogo i:hover {
+    color:blue
+}

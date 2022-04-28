@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+}
+
+.allpage {
+    width: 100%;
+    height: 750px;
+    
+}
+
+.logo{
+    width: 200px;
+    height: 70px;
+    border:1px solid black;
+    margin: 15px 20px;
+    display: inline-block;
+}
+.futurebanner{
+    width: 450px;
+    height: 70px;
+    border:1px solid black;
+    margin: 15px 20px;
+    display: inline-block;
+    margin-left: 800px;
+    
+}
+.mainnavigation{
+    display: block;
+    height: 60px;
+    width: 1477px;
+    border:1px solid black;
+    display: block;
+    margin: 15px 18px;
+
+}
+
+.oneside{
+    width: 45%;
+    height:450px;
+    
+    margin-left: 17px;
+    display: inline-block;
+}
+.dealofweek{
+    width: 100%;
+    height:130px;
+    border:1px solid black;
+}
+.partners{
+    width: 100%;
+    height:130px;
+    border:1px solid black;
+    margin-top: 10px;
+}
+.catergorized{
+    width: 100%;
+    height:170px;
+    border:1px solid black;
+    margin-top: 10px;
+}
+.twoside{
+    width: 32%;
+    height:450px;
+    
+    display: inline-block;
+    margin-left: 5px;
+}
+.membership{
+    width: 100%;
+    height: 140px;
+    border:1px solid black;
+}
+.petinsurance{
+    width: 100%;
+    height: 300px;
+    border:1px solid black;
+    margin-top: 7px;
+}
+.threeside{
+    width: 18%;
+    height:450px;
+    
+    display: inline-block;
+    margin-left: 5px;
+}
+.descsite{
+    width: 100%;
+    height: 120px;
+    border:1px solid black;
+}
+.blogpost{
+    width: 100%;
+    height: 200px;
+    border:1px solid black;
+    margin-top: 5px;
+}
+.discussionfrompost{
+    width: 100%;
+    height: 120px;
+    border:1px solid black;
+    margin-top: 5px;
+}
+.footer{
+    display: block;
+    height: 80px;
+    width: 1477px;
+    border:1px solid black;
+    display: block;
+    margin: 15px 18px;
+}
